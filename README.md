@@ -1,2 +1,2 @@
 # AssignmentOne
-Android application for kids to learn english alphabets
+Android Application for kids to learn English Alphabets
